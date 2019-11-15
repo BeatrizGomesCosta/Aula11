@@ -7,9 +7,16 @@
 }  
 
 .center {
-    margin-top: 200px;
+    
     text-align: center;
     width: 100%;
+}
+
+
+.center1 {
+  margin-top: 200px;
+  text-align: center;
+  width: 100%;
 }
 
 /* unvisited link */
