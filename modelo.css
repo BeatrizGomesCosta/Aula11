@@ -76,7 +76,7 @@ body{
 .topnav {
 
     overflow: hidden;
-    background-color: rgb(255, 253, 249);
+    background-color: rgb(57, 145, 61);
   }
   
   /* Navbar links */
@@ -91,7 +91,7 @@ body{
   
   /* Links - change color on hover */
 .topnav a:hover {
-    background-color: rgb(231, 230, 230);
+    background-color: rgb(73, 190, 79);
     color: black;
 }
   
@@ -99,7 +99,7 @@ body{
 #imagem{
     background-color: rgb(19, 141, 23);
     position: absolute; 
-    top: 62px;
+    top: 69px;
     width: 100%;
 }
 
